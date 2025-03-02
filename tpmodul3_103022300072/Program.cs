@@ -16,7 +16,7 @@ namespace tpmodul3_103022300072
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new TPModul3());
         }
     }
 }
